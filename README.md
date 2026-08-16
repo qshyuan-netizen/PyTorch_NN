@@ -5,4 +5,4 @@ Example dataset: breast cancer Wisconsin dataset from scikit-learn library
 
 Model: three-layer neural network for binary classification (cancer: Yes or No)
 
-Reference: Youtube video https://www.youtube.com/watch?v=uq7sbUlIDR8
+Reference: [Youtube video](https://www.youtube.com/watch?v=uq7sbUlIDR8)
