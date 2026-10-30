@@ -5,6 +5,6 @@ Example dataset: breast cancer Wisconsin dataset from scikit-learn library
 
 Model: three-layer neural network for binary classification (cancer: Yes or No)
 
-Evaluation: accuracy = 111/114 = 97% (total test samples: 114)
+Evaluation: accuracy = 111/114 = 97.4% (total test samples: 114)
 
 Reference: [Youtube video](https://www.youtube.com/watch?v=uq7sbUlIDR8)
